@@ -6,5 +6,6 @@ public class MyFirstProgram {
         double l = 8;
         double s = l * l;
         System.out.println("Площадь квадрата со стороной " + 1 + " = " + s);
+        System.out.println("dsfgadg");
     }
 }
